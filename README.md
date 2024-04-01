@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Soufiane Chami</h1>
 
 ## 😄 About me
-- 🌱 I am working as a Lead Data scientist at Bain & Company
-- 🤔 Feel free to reach out! Let's talk business 
+- I am a Lead Data scientist at Bain & Company
+- Let's talk business! Feel free to reach out 
 
 
 ![soufianechami's Streak](https://github-readme-streak-stats.herokuapp.com/?user=soufianechami&theme=vue-dark&hide_border=true)
