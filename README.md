@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Soufiane Chami</h1>
 
 ## 😄 About me
-- 🌱 I am working as a Snr Data scientist at Bain & Company
-- 🤔 Feel free to contact me, I'll be glad to talk with you !
+- 🌱 I am working as a Lead Data scientist at Bain & Company
+- 🤔 Feel free to reach out! Let's talk business 
 
 
 [![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=soufianechami)](https://github.com/soufianechami/github-readme-profile)
