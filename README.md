@@ -5,7 +5,6 @@
 - 🤔 Feel free to reach out! Let's talk business 
 
 
-[![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=soufianechami)](https://github.com/soufianechami/github-readme-profile)
 ![soufianechami's Streak](https://github-readme-streak-stats.herokuapp.com/?user=soufianechami&theme=vue-dark&hide_border=true)
 
 <h2>📫 How to reach me</h2>
